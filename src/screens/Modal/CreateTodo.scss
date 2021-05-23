@@ -1,0 +1,27 @@
+.modal_container {
+  position: absolute;
+  background-color: #1b1717c2;
+  top: 0;
+  bottom: 0;
+  left: 0;
+  right: 0;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.inner_modal {
+  background-color: white;
+  width: 300px;
+  min-height: 300px;
+  max-width: 70%;
+  padding: 30px;
+  border-radius: 5px;
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+}
+
+.error_text {
+  color: #e84a50;
+}

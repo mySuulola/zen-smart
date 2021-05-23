@@ -1,0 +1,58 @@
+.table_row {
+  display: flex;
+  align-items: center;
+  padding: 10px 30px;
+  justify-content: space-between;
+}
+
+.completed_text {
+  text-decoration: line-through;
+}
+
+.flex_1 {
+  flex: 1;
+  color: #194787;
+}
+
+.text_center {
+  text-align: center;
+}
+
+.title {
+  margin: 0;
+  color: #2e384d;
+  text-transform: uppercase;
+  font-weight: 400;
+  font-size: 15px;
+}
+
+.label {
+  margin: 0;
+  font-weight: 600;
+}
+
+.date {
+  color: #b0bac9;
+}
+
+.todo_details_container {
+  padding: 10vw;
+}
+
+.py_5 {
+  padding: 1.3rem 0px;
+}
+
+
+@media screen and (max-width: 600px) {
+  .table_row {
+    display: block;
+  }
+  .inner_row {
+    margin-top: 10px;
+  }
+  .display_none {
+    display: none;
+  }
+}
+

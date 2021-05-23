@@ -1,0 +1,47 @@
+.button {
+  outline: none;
+  border-radius: 5px;
+  text-align: center;
+  font-weight: 600;
+  padding: 0px 20px;
+}
+
+.solid_button {
+  background: #0b6bf2;
+  color: #ffffff;
+  border: 0;
+  height: 40px;
+  width: 100%;
+  margin-bottom: 20px;
+}
+
+.outline_button {
+  margin-right: 10px;
+  background: transparent;
+  height: 30px;
+}
+
+.action_button {
+  border: 1px solid #0b6bf2;
+  color: #0b6bf2;
+}
+
+.grey_button {
+  border: 1px solid #b0bac9;
+  color: #b0bac9;
+}
+
+.edit_button {
+  border: 1px solid #2cc2a5;
+  color: #2cc2a5;
+}
+
+.cancel_button {
+  background-color: #dc262b;
+}
+.delete_button {
+  border: 1px solid #dc262b;
+  color: #dc262b;
+}
+
+
