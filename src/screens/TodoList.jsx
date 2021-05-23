@@ -13,7 +13,6 @@ const TodoList = ({ items, onItemsClick, onViewItem }) => {
       <div className='table_row display_none'>
         <h5 className='flex_1'>Activity</h5>
         <h5 className='flex_1 text_center'>Action</h5>
-        <h5></h5>
       </div>
       {items
         .sort((a, b) => a.id - b.id)

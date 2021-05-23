@@ -12,8 +12,6 @@
   </a>
 </p>
 
-> The application displays the list of top and latest news using hacker-news api
-
 ### 🏠 [Homepage](https://zen-smart.netlify.app)
 
 ### ✨ [Demo](https://zen-smart.netlify.app/)
@@ -31,7 +29,9 @@ npm install
 * Website: https://suu.com.ng
 * Twitter: [@iamsuulola](https://twitter.com/iamsuulola)
 * Github: [@mysuulola](https://github.com/mysuulola)
+* GitLab: [@mysuulola](https://gitlab.com/suulola)
 * LinkedIn: [@suulola](https://linkedin.com/in/suulola)
+* CV: [@suulola](https://bit.ly/suulola)
 
 ## 🤝 Contributing
 
