@@ -16,10 +16,13 @@
 
 ### ✨ [Demo](https://zen-smart.netlify.app/)
 
-## Install
+## To run locally
 
 ```sh
+git clone https://github.com/mySuulola/zen-smart.git
+cd zen-smart
 npm install
+npm start
 ```
 
 ## Author
